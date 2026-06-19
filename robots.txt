@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amoratonett.github.io/china-official-mk-com-3/sitemap.xml
